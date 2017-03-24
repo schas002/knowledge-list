@@ -56,6 +56,14 @@ Biology is... and does...
 
 Medicine is... and does...
 
+*** TODO Metallurgy :metallurgy:
+
+Metallurgy is... and does...
+
+*** TODO Aeronautics :aeronautics:
+
+Aeronautics are... and do...
+
 ** TODO Religion :religion:
 
 Religion is... and does...
@@ -84,6 +92,18 @@ Education is... and does...
 
 Communications are... and do...
 
+** TODO Engineering :engineering:
+
+Engineering is... and does...
+
+** TODO Military affairs :military:affairs:
+
+Military affairs are... and do...
+
+** TODO Agriculture :agriculture:
+
+Agriculture is... and does...
+
 * TODO Important booty :important:booty:
 
 This is important booty that has not reached its own place, *yet*. Organization is a *must*.
@@ -91,4 +111,8 @@ This is important booty that has not reached its own place, *yet*. Organization 
 ** TODO Government :government:
 
 Government is... and does...
+
+** TODO Mining :mining:
+
+Mining is... and does...
 
