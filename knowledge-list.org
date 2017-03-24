@@ -24,3 +24,31 @@ Geography is... and does...
 
 Linguistics are... and do...
 
+** TODO Literature :literature:
+
+Literature is... and does...
+
+** TODO The Arts :arts:
+
+The Arts are... and do...
+
+** TODO Sociology :sociology:
+
+Sociology is... and does...
+
+** TODO Politics :politics:
+
+Politics are... and do...
+
+** TODO Economics :economics:
+
+Economics are... and do...
+
+* TODO Important booty :important:booty:
+
+This is important booty that has not reached its own place, *yet*. Organization is a *must*.
+
+** TODO Government :government:
+
+Government is... and does...
+
