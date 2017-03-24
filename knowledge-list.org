@@ -4,25 +4,41 @@ A list aiming to include knowledge. Licensed under CC-BY https://creativecommons
 
 Knowledge is... and does...
 
-** TODO Philosophy :philosophy:
+** TODO Science :science:
+
+Science is... and does...
+
+*** TODO Philosophy :philosophy:
 
 Philosophy is... and does...
+
+*** TODO History :history:
+
+History is... and does...
+
+*** TODO Geography :geography:
+
+Geography is... and does...
+
+*** TODO Linguistics :linguistics:
+
+Linguistics are... and do...
+
+*** TODO Sociology :sociology:
+
+Sociology is... and does...
+
+*** TODO Mathematics :mathematics:
+
+Mathematics are... and do...
+
+*** TODO Astronomy :astronomy:
+
+Astronomy is... and does...
 
 ** TODO Religion :religion:
 
 Religion is... and does...
-
-** TODO History :history:
-
-History is... and does...
-
-** TODO Geography :geography:
-
-Geography is... and does...
-
-** TODO Linguistics :linguistics:
-
-Linguistics are... and do...
 
 ** TODO Literature :literature:
 
@@ -32,10 +48,6 @@ Literature is... and does...
 
 The Arts are... and do...
 
-** TODO Sociology :sociology:
-
-Sociology is... and does...
-
 ** TODO Politics :politics:
 
 Politics are... and do...
@@ -43,6 +55,14 @@ Politics are... and do...
 ** TODO Economics :economics:
 
 Economics are... and do...
+
+** TODO Education :education:
+
+Education is... and does...
+
+** TODO Communications :communications:
+
+Communications are... and do...
 
 * TODO Important booty :important:booty:
 
