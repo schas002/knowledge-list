@@ -36,6 +36,26 @@ Mathematics are... and do...
 
 Astronomy is... and does...
 
+*** TODO Physics :physics:
+
+Physics are... and do...
+
+*** TODO Chemistry :chemistry:
+
+Chemistry is... and does...
+
+*** TODO Geology :geology:
+
+Geology is... and does...
+
+*** TODO Biology :biology:
+
+Biology is... and does...
+
+*** TODO Medicine :medicine:
+
+Medicine is... and does...
+
 ** TODO Religion :religion:
 
 Religion is... and does...
