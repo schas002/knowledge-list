@@ -1,0 +1,26 @@
+A list aiming to include knowledge. Licensed under CC-BY https://creativecommons.org/licenses/by/4.0/. Any contributions, whether important booty, research, or fixes, are welcome.
+
+* TODO Knowledge :knowledge:
+
+Knowledge is... and does...
+
+** TODO Philosophy :philosophy:
+
+Philosophy is... and does...
+
+** TODO Religion :religion:
+
+Religion is... and does...
+
+** TODO History :history:
+
+History is... and does...
+
+** TODO Geography :geography:
+
+Geography is... and does...
+
+** TODO Linguistics :linguistics:
+
+Linguistics are... and do...
+
