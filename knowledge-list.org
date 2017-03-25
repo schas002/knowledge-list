@@ -12,6 +12,14 @@ Science is... and does...
 
 Philosophy is... and does...
 
+**** TODO Systematic philosophy :systematic:philosophy:
+
+Systematic philosophy is... and does...
+
+**** TODO Occultism :occultism:
+
+Occultism is... and does...
+
 *** TODO History :history:
 
 History is... and does...
@@ -119,4 +127,16 @@ Government is... and does...
 ** TODO Mining :mining:
 
 Mining is... and does...
+
+** Collections of philosophical writings
+
+Should this item be in the list?
+
+** Introductions to philosophy
+
+Should this item be in the list?
+
+** History and systems
+
+Should this item be in the list?
 
